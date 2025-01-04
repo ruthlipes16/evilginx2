@@ -11,6 +11,7 @@ A fork of kgretzky/evilginx2 including my TTPs, IOC header removal, customizatio
 - CloudFlare CAPTCHA
 - Google AMP Redirects
 - Manipulate "Display Name" for Outlook
+- Telegram Webhook
 
 
 ## IOC Removal
