@@ -1,6 +1,6 @@
 # evilginx3
 
-A fork of kgretzky/evilginx2 including my TTPs, Telegram/Discord Notifications, Bypass Captcha Protection, IOC header removal, customizations and additional configurations to prevent detections by EOP/SafeLinks and much more.
+A fork of kgretzky/evilginx2 including aalex954 TTPs, Telegram/Discord Notifications, Bypass Captcha Protection, IOC header removal, customizations and additional configurations to prevent detections by EOP/SafeLinks and much more.
 
 - IOC Removal
 - Bypass reCaptcha/hCaptcha/Cloudflare
